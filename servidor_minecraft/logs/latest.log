@@ -91,3 +91,17 @@
 [01Dec2024 21:14:22.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: troll_face300 joined the game
 [01Dec2024 21:15:52.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: troll_face300 lost connection: Timed out
 [01Dec2024 21:15:52.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: troll_face300 left the game
+[01Dec2024 21:26:59.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Dec2024 21:26:59.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Dec2024 21:26:59.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Dec2024 21:26:59.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Dec2024 21:27:01.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Dec2024 21:27:01.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Dec2024 21:27:01.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Dec2024 21:27:01.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Dec2024 21:27:01.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Dec2024 21:27:01.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Dec2024 21:27:01.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Dec2024 21:27:01.890] [Server thread/INFO] [Framework/]: Unloading server configs...
+[01Dec2024 21:27:01.892] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[01Dec2024 21:27:01.894] [Server thread/INFO] [Framework/]: Finished unloading server configs

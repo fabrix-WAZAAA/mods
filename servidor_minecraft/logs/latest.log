@@ -83,3 +83,11 @@
 [01Dec2024 21:09:43.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: troll_face300 joined the game
 [01Dec2024 21:09:46.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
 [01Dec2024 21:10:43.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: troll_face300 has made the advancement [Alex's Mobs]
+[01Dec2024 21:13:43.776] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-4, 27], pos: MutableBlockPos{x=-64, y=20, z=438}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[01Dec2024 21:13:43.784] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-4, 27], pos: MutableBlockPos{x=-64, y=21, z=438}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[01Dec2024 21:14:22.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: troll_face300 lost connection: You logged in from another location
+[01Dec2024 21:14:22.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: troll_face300 left the game
+[01Dec2024 21:14:22.319] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: troll_face300[/[::1]:58836] logged in with entity id 1519 at (-113.27550092599844, 110.0, 267.52371491419484)
+[01Dec2024 21:14:22.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: troll_face300 joined the game
+[01Dec2024 21:15:52.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: troll_face300 lost connection: Timed out
+[01Dec2024 21:15:52.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: troll_face300 left the game
